@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Logger</string>
+    <string name="write_button">write</string>
+</resources>
